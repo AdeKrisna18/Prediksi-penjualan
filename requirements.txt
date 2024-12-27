@@ -2,5 +2,5 @@ Pandas
 NumPy 
 Pip 
 Streamlit  
-Scikit Learn
+Scikit_Learn
 Plotly 
