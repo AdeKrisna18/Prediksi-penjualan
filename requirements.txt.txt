@@ -3,4 +3,4 @@ NumPy == 1.26.4
 Pip == 24.1.2
 Streamlit == 
 Scikit Learn ==
-plotly == 5.24.1
+plotly
