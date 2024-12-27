@@ -1,0 +1,6 @@
+Pandas == 2.2.2
+NumPy == 1.26.4
+Pip == 24.1.2
+Streamlit == 
+Scikit Learn ==
+Plotly ==
